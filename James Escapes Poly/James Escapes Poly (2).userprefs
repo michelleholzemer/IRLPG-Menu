@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Myo\Scripts\Myo.NET\Hub.cs">
+    <Files>
+      <File FileName="Assets\whenbuttonpressed.cs" Line="1" Column="1" />
+      <File FileName="Assets\Myo\Scripts\ThalmicHub.cs" Line="1" Column="1" />
+      <File FileName="Assets\Myo\Scripts\Myo.NET\EventTypes.cs" Line="56" Column="1" />
+      <File FileName="Assets\Myo\Scripts\Myo.NET\Hub.cs" Line="1" Column="1" />
+      <File FileName="Assets\Myo\Scripts\Myo.NET\libmyo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Myo\Scripts\Myo.NET\Myo.cs" Line="170" Column="1" />
+      <File FileName="Assets\Myo\Scripts\Myo.NET\Pose.cs" Line="1" Column="1" />
+      <File FileName="Assets\Myo\Scripts\Myo.NET\Quaternion.cs" Line="8" Column="28" />
+      <File FileName="Assets\Myo\Scripts\Myo.NET\Vector3.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
